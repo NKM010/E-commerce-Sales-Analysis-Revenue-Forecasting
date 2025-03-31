@@ -26,4 +26,14 @@ This project analyzes e-commerce sales data to uncover key business insights, id
 ## How to Use This Notebook  
 1. Clone this repository or download the `.ipynb` file.  
 2. Open it in Jupyter Notebook or Google Colab.  
-3. Run the code to follow the analysis and view the forecasting results.  
+3. Run the code to follow the analysis and view the forecasting results.
+
+## Excel Analysis (Google Sheets)
+To demonstrate proficiency with spreadsheet tools, an exploratory analysis was also conducted in Excel (Google Sheets):
+
+- Added a new column for Total Sales (`Quantity × UnitPrice`).
+- Cleaned data by removing rows with missing product descriptions and unspecified countries.
+- Created a pivot table summarizing Total Sales per Country.
+- Visualized the results using a bar chart of top-selling regions.
+
+> Note: The Excel file is included in this repository under the name `ecommerce_sales_excel_analysis.xlsx`.
