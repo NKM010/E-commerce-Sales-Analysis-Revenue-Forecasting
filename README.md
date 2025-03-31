@@ -22,6 +22,8 @@ This project analyzes e-commerce sales data to uncover key business insights, id
 - Sourced from [Kaggle](https://www.kaggle.com/code/allunia/e-commerce-sales-forecast).  
 - Created by **Allunia**.  
 - This dataset is licensed under the **Open Database License (ODbL)**.
+- Note: Due to file size, the dataset is not included in this repository.  
+You can download it directly from the Kaggle link above to follow along.
 
 ## How to Use This Notebook  
 1. Clone this repository or download the `.ipynb` file.  
