@@ -28,7 +28,7 @@ This project analyzes e-commerce sales data to uncover key business insights, id
 2. Open it in Jupyter Notebook or Google Colab.  
 3. Run the code to follow the analysis and view the forecasting results.
 
-## Excel Analysis (Google Sheets)
+## Excel Analysis 
 To demonstrate proficiency with spreadsheet tools, an exploratory analysis was also conducted in Excel (Google Sheets):
 
 - Added a new column for Total Sales (`Quantity × UnitPrice`).
